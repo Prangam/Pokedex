@@ -1,0 +1,80 @@
+.container-fluid {
+  padding: 0px;
+}
+
+header {
+  background-color: #ffcb05;
+  padding: 10px 20px;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 1.25rem;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 5px 10px;
+}
+
+.badge.grass {
+  background-color: #78c850;
+}
+
+.badge.poison {
+  background-color: #a040a0;
+}
+
+.badge.fire {
+  background-color: #f08030;
+}
+
+.badge.flying {
+  background-color: #a890f0;
+}
+
+.badge.water {
+  background-color: #6890f0;
+}
+
+.btn-dark {
+  background-color: #333;
+  border-color: #333;
+}
+
+.btn-dark:hover {
+  background-color: #555;
+  border-color: #555;
+}
+
+.navbar-custom {
+  background-color: #FFCB05 !important;
+}
+
+.navbar {
+  font-size: 1rem;
+  height: 42px;
+}
+
+.navbar-brand {
+  font-size: 1rem;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+
